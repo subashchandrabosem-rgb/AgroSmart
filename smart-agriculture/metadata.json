@@ -1,0 +1,6 @@
+{
+  "name": "AgroSmart",
+  "description": "A modern full-stack Smart Agriculture App featuring AI disease detection, weather monitoring, fertilizer recommendations, and a farmer-to-consumer marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

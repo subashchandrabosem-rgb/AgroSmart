@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "176597554993",
+    "project_id": "agro-smart-d0b07",
+    "storage_bucket": "agro-smart-d0b07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176597554993:android:b6c6bc89e05e955f8f0210",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176597554993-riojcouvf0q80olpbhm5538jun34r4ni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example",
+            "certificate_hash": "89e4afb48b27add804db7e05b1abcb053e596be8"
+          }
+        },
+        {
+          "client_id": "176597554993-33b763a0e3r383c9fcvcc13i87dt7oo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrp1CRLQSWNUeBWx6bdbR4gBctNcUeczc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176597554993-33b763a0e3r383c9fcvcc13i87dt7oo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
